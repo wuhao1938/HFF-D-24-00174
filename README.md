@@ -34,4 +34,6 @@ The output of X12 is:
 
 0.0290
 
+Our work is under review, more code of 2~12 sphere cases will be uploaded later.
+
 If you have any questions or comments, please do not hesitate to contact me (wuhao@ncepu.edu.cn).
