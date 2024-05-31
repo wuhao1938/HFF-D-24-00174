@@ -11,7 +11,7 @@ run following command in command windows:
 
 F2([0 0 0 2 0 0])
 
-The output is:
+First particle position is [0 0 0 ], Second one at [2 0 0].The output of X12 is:
 
 0.0756
 
